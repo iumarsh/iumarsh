@@ -1,15 +1,25 @@
-![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Umar Farooq</h1>
-<h3 align="center">A passionate mern stack developer</h3>
-- 🔭 I’m currently working with [frequency ads](https://frequencyads.com/)
+# Hi there 👋, I'm Umar Sheikh
+### Full Stack Developer | MERN Stack Specialist
 
-- 💬 Ask me about **MERN**
+I'm a passionate MERN stack developer with 5 years of experience building robust, scalable web applications.
 
-- 📫 How to reach me **sheikhgarts@gmail.com**
+### 🛠️ Tech Stack
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🔥 Project Highlights
+ 🚧 **Projects Coming Soon!**
+ Working on curating my recent projects. I’ll update this section shortly—stay tuned!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+
+### 💡 Skills and Experience
+- **Backend**: REST APIs, Node.js, Express, Authentication & Authorization
+- **Frontend**: React, Redux, Component Design, Material UI
+- **Database**: MongoDB, Mongoose, Data Modeling
+- **Testing**: Jest
+
+### 📫 Get in Touch
+- [LinkedIn](http://www.linkedin.com/in/umar-sheikh-08437214b)
+- [Email](mailto:sheikhgarts@gmail.com)
