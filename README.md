@@ -1,7 +1,6 @@
 ![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
 <h3 align="center">A passionate mern stack developer</h3>
-<img align="right" width="400" src="https://cdn.openart.ai/uploads/image_U__xvegO_1689539044824_512.webp"/>
 - 🔭 I’m currently working with [frequency ads](https://frequencyads.com/)
 
 - 💬 Ask me about **MERN**
