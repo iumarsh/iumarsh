@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
 <h3 align="center">A passionate mern stack developer</h3>
 - 🔭 I’m currently working with [frequency ads](https://frequencyads.com/)
