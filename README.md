@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Umar Sheikh
+# Hi there 👋, I'm Umar Farooq
 ### Full Stack Developer | MERN Stack
 
 I'm a passionate MERN stack developer with 5 years of experience building robust, scalable web applications.
